@@ -15,3 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 Typo fix for Git and GitHub project.
+Typo fix for the Git and GitHub project.
